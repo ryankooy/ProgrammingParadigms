@@ -1,0 +1,16 @@
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\netcoreapp3.1\ProgrammingParadigms.exe
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\netcoreapp3.1\ProgrammingParadigms.deps.json
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\netcoreapp3.1\ProgrammingParadigms.runtimeconfig.json
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\netcoreapp3.1\ProgrammingParadigms.runtimeconfig.dev.json
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\netcoreapp3.1\ProgrammingParadigms.dll
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\netcoreapp3.1\ProgrammingParadigms.pdb
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\netcoreapp3.1\Interop.SSCE.dll
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\bin\Debug\netcoreapp3.1\Interop.VSLangProj.dll
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\netcoreapp3.1\ProgrammingParadigms.csprojAssemblyReference.cache
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\netcoreapp3.1\Interop.SSCE.dll
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\netcoreapp3.1\Interop.VSLangProj.dll
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\netcoreapp3.1\ProgrammingParadigms.csproj.ResolveComReference.cache
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\netcoreapp3.1\ProgrammingParadigms.AssemblyInfoInputs.cache
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\netcoreapp3.1\ProgrammingParadigms.AssemblyInfo.cs
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\netcoreapp3.1\ProgrammingParadigms.dll
+C:\Users\Ry\source\repos\ProgrammingParadigms\ProgrammingParadigms\obj\Debug\netcoreapp3.1\ProgrammingParadigms.pdb
